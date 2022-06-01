@@ -1,0 +1,5 @@
+project: wizer
+target: fuzz-wizer
+
+cmds:
+  - cmd: /fuzz_wizer

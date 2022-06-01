@@ -25,3 +25,9 @@ name = "same_result"
 path = "fuzz_targets/same_result.rs"
 test = false
 doc = false
+
+[[bin]]
+name = "fuzz_wizer"
+path = "fuzz_targets/fuzz_wizer.rs"
+test = false
+doc = false
